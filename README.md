@@ -17,6 +17,12 @@ From November-December I attempted to implement intermittent fasting by allowing
 This was a dramatic failure. My lifestyle had me up at all sorts of hours, if I was out with my friends I was drinking, completely
 invalidating my fast, and while I did see a little bit of weight loss overall, I felt like I was losing at my attempt.
 
+I started doing research with the following goals in mind:
+
+- [ ] I wanted to be able to drink alchohol still. My friends and I love going to Karaoke and things throughout the week, so it had to be compatible with my lifestyle
+- [ ] I wanted to be able to eat as my schedule allowed me to; My day-to-day is chaotic.
+- [ ] Everywhere else I could, I'd make a reasonable effort to stay within a diet/budget
+
 ## December 27th, 2022
 
 Over the prior weeks, I was doing a lot of research regarding apps that I might use to help with my Intermittent Fasting, or
@@ -51,6 +57,8 @@ With an additional soft goal of:
 - __Intermittent Fasting:__ 12h - Every Day
 
 > I don't expect I'll do well on this still, but I'll try for it when I can.
+
+This program seem to hit all of my requirements, so I'm committing to it.
 
 Additionally to help in tracking my goals, I ordered:
 
@@ -102,5 +110,11 @@ I'm still weirdly plateaud between 186-190lbs, although I'm actually starting to
 some muscular definition showing. Still a lot more stomache fat than I wish, but I also can start to see my upper abs ever
 so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gains muslce.
 
-I finished my Optimum Gold Standard Protein Shake's today. Honestly they were pretty awful compared to Soylent, so I won't be
-ordering them again.
+### Notes
+
+- I finished my Optimum Gold Standard Protein Shake's today. Honestly they were pretty awful compared to Soylent, so I won't
+  be ordering them again. Might try some additional ones though, or even just get a Whey Protein powder... trying to find good
+  ones right now that are flavorless.
+- While my week-to-week has been okay, I've certainly been drinking a lot more the last little bit due to stressful things in my
+  personal life. Cutting back on this while maintaining my daily caloric budget and gym goals through the week might be what gets
+  me past the 185 mark.
