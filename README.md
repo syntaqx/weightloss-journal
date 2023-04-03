@@ -168,3 +168,10 @@ so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gain
 - While my week-to-week has been okay, I've certainly been drinking a lot more the last little bit due to stressful things in my
   personal life. Cutting back on this while maintaining my daily caloric budget and gym goals through the week might be what gets
   me past the 185 mark.
+
+## May 2023
+
+> This has changed a few times, but I'll list them out.
+
+- __Initial Goal Projection__: May 4th
+- __Current Goal Projection__: May 21st
