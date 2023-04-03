@@ -131,6 +131,8 @@ tank tops (all of which I've not liked) off Amazon.
 
 ### March 21, 2023
 
+- __Weight__: 191.0 lbs
+
 I use TikTok a lot for general happiness, but also started following a lot of influencers for gym, weight loss, etc. The
 most significant of which has been Papa Swolio - I get a daily reminder on my news feed to "Go to the fucking gym" - Which
 has been weirdly useful, and gets me off the couch at to the gym. I don't go every day, as he recommends, but it does get
