@@ -107,7 +107,7 @@ I've also been pretty bad with taking my supplements every day, but I do my best
 
 - __Weight:__ 191.2 lbs
 
-I've hit a weird plateau in my weight loss around 190lbs. To help in this, I've started a membership with EōS Fitness.
+I've hit a weird plateau in my weight loss around 190lbs. To help in this, I've started a membership with [EōS Fitness](https://eosfitness.com/).
 I purchased a Black Membership (their highest level) so I could bring a friend with me every Sunday, with a soft goal
 of:
 
@@ -115,8 +115,11 @@ of:
 - __Monday__: Lower Body; 3 Miles Cardio (1-2 hours total)
 - __Tuesday__: Back/Core; 3 Miles Cardio (1-2 hours total)
 
-The workouts per day can optionally be swapped around, just making sure I target all areas of the body throughout the 3
+> The workouts per day can optionally be swapped around, just making sure I target all areas of the body throughout the 3
 days that I go, and a stretch goal of 4 days a week.
+
+I've opted to not using a personal trainer, because I'm not convinced they add any value than me just going to the gym
+until I've made the effort to go consistently myself and use the machines.
 
 Additionally, I wanted to make sure that I wasn't losing any muscle weight (and hopefully building some). Although it's
 always been in my weight loss app, I've started to make specific effort to make sure days that I'm at the gym I'm getting
