@@ -169,9 +169,7 @@ so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gain
   personal life. Cutting back on this while maintaining my daily caloric budget and gym goals through the week might be what gets
   me past the 185 mark.
 
-## May 2023
-
-> This has changed a few times, but I'll list them out.
+## Goal
 
 - __Initial Goal Projection__: May 4th
 - __Current Goal Projection__: May 21st
