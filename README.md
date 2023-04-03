@@ -1,4 +1,4 @@
-# Workout Journal
+# Weightloss Journal
 
 ![image](https://user-images.githubusercontent.com/6037730/229620672-2c7385cb-cae9-4958-b4e8-f13e0bc8badf.png)
 
