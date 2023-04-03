@@ -97,8 +97,8 @@ days that I go, and a stretch goal of 4 days a week.
 ## April 2nd 2023
 
 We played our first game of golf today, and I also used a cart. _With_ the cart, I got my full 10,000 steps in and almost
-5 miles of walking. I've purchased a golf push cart, and next time we go I will be walking the full course. This will stub
-in for cardio on Sundays. Gym was exhausting today.
+5 miles of walking. I've purchased a golf push cart, and next time we go I will be walking the course (we play 9 holes).
+This will stub in for cardio on Sundays. Gym was exhausting today as a side effect, so I only walked 1 mile on the treadmill.
 
 ## April 3rd, 2023
 
