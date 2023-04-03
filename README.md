@@ -7,8 +7,10 @@
 In November of 2022 (likely because of Thanksgiving & general holiday shenanigans) I weighed myself at my highest weight ever, 220.
 This caused a cascade of self-reflection, and body dismorphia that made me realize changes were needed.
 
-In high-school, I played plenty of sports, and weighed the 165-175 range, with fairly low body fat lean muscle. I set my goal to
-return to this weight, while still growing muscle as much as possible without having to change my life dramatically.
+In high-school, I played plenty of sports, and weighed the 165-175 range, with fairly low body fat/lean muscle.
+
+I've worked in Tech since 2004, so I spend 6-12 hours a day in front of a computer, which over time has contributed to my body
+having more fat, less muslce, and probably lots of other sad things. Becoming active needs to happen.
 
 ## November-December 2022
 
@@ -19,6 +21,8 @@ invalidating my fast, and while I did see a little bit of weight loss overall, I
 
 I started doing research with the following goals in mind:
 
+- [ ] I want to reach 175 lbs and significantly lower my body fat %
+  - The poundage isn't as important as the changes to myself physically, but that was what I used to weigh.
 - [ ] I wanted to be able to drink alchohol still. My friends and I love going to Karaoke and things throughout the week, so it had to be compatible with my lifestyle
 - [ ] I wanted to be able to eat as my schedule allowed me to; My day-to-day is chaotic.
 - [ ] I smoke; cigarettes and vaping - While I want to eventually quit this too, I'm keeping focused on one problem at a time for sanity.
