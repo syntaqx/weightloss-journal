@@ -103,7 +103,7 @@ I've also been pretty bad with taking my supplements every day, but I do my best
 - __Starting Weight__: 191.2 lbs
 - __Ending Weight__: 189.2 lbs
 
-## March 12, 2023
+### March 12, 2023
 
 - __Weight:__ 191.2 lbs
 
@@ -123,7 +123,7 @@ always been in my weight loss app, I've started to make specific effort to make 
 sufficient protein (Fiber has been a challenge even with the supplements, but that too) - So more protein drinks. Still
 considering Whey Powder but haven't found anything that doesn't sound disgusting.
 
-## March 21, 2023
+### March 21, 2023
 
 I use TikTok a lot for general happiness, but also started following a lot of influencers for gym, weight loss, etc. The
 most significant of which has been Papa Swolio - I get a daily reminder on my news feed to "Go to the fucking gym" - Which
@@ -138,13 +138,13 @@ me out more than I thought I could. I ordered a few of his tanks, which I like q
 - __Starting Weight__: 189.0 lbs
 - __Ending Weight__: TBD
 
-## April 2nd 2023
+### April 2nd 2023
 
 We played our first game of golf today, and I also used a cart. _With_ the cart, I got my full 10,000 steps in and almost
 5 miles of walking. I've purchased a golf push cart, and next time we go I will be walking the course (we play 9 holes).
 This will stub in for cardio on Sundays. Gym was exhausting today as a side effect, so I only walked 1 mile on the treadmill.
 
-## April 3rd, 2023
+### April 3rd, 2023
 
 - __Streak:__ 94 days
 - __Lowest Recorded Weight__: 186.6 lbs
@@ -154,7 +154,7 @@ I'm still weirdly plateaud between 186-190lbs, although I'm actually starting to
 some muscular definition showing. Still a lot more stomache fat than I wish, but I also can start to see my upper abs ever
 so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gains muslce.
 
-### Notes
+#### Notes
 
 - I finished my Optimum Gold Standard Protein Shake's today. Honestly they were pretty awful compared to Soylent, so I won't
   be ordering them again. Might try some additional ones though, or even just get a Whey Protein powder... trying to find good
