@@ -16,16 +16,18 @@ having more fat, less muslce, and probably lots of other sad things. Becoming ac
 
 From November-December I attempted to implement intermittent fasting by allowing myself to eat anywhere from 12pm - 8pm.
 
-This was a dramatic failure. My lifestyle had me up at all sorts of hours, if I was out with my friends I was drinking, completely
-invalidating my fast, and while I did see a little bit of weight loss overall, I felt like I was losing at my attempt.
+Although I did end up losing close to 10lbs, this was an overall failure in execution. My lifestyle has always had me up at all
+sorts of hours for work, or being out with friends. Drinking at night when I was out always invalidated my fast, or I ended up
+ruining what would be a good time with them; I did see some significant weight loss, but it wasn't working the way that it should,
+and I always felt guilt regarding the fast rather than feeling like I was making progression.
 
 I started doing research with the following goals in mind:
 
 - [ ] I want to reach 175 lbs and significantly lower my body fat %
   - The poundage isn't as important as the changes to myself physically, but that was what I used to weigh.
-- [ ] I wanted to be able to drink alchohol still. My friends and I love going to Karaoke and things throughout the week, so it had to be compatible with my lifestyle
+- [ ] I wanted to be able to drink alchohol still. My friends and I love going to karaoke and things throughout the week, so it had to be compatible with my lifestyle
 - [ ] I wanted to be able to eat as my schedule allowed me to; My day-to-day is chaotic.
-- [ ] I smoke; cigarettes and vaping - While I want to eventually quit this too, I'm keeping focused on one problem at a time for sanity.
+- [ ] I smoke: cigarettes and vaping - While I want to eventually quit this too, I'm keeping focused on one problem at a time for sanity.
 - [ ] Everywhere else I could, I'd make a reasonable effort to stay within a diet/budget
 
 ## December 27th, 2022
@@ -38,7 +40,9 @@ general solutions to help me keep my goals in line, and I essentially came down 
 
 And wound up finding an app that would help me with both: [Lose It!](https://www.loseit.com/)
 
-I started daily entries in this app, with a personal goal of always entering the closest information possible.
+I started daily entries in this app, with a personal goal of always entering the closest information possible, and staying under
+the caloric budget provided. This essentially meant that I could do whatever I wanted, alchohol or not, as long as I stayed within
+budget.
 
 ## January 2023
 
