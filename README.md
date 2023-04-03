@@ -32,6 +32,8 @@ I started doing research with the following goals in mind:
 
 ## December 27th, 2022
 
+- __Weight__: 210 lbs
+
 Over the prior weeks, I was doing a lot of research regarding apps that I might use to help with my Intermittent Fasting, or
 general solutions to help me keep my goals in line, and I essentially came down to two weight-loss facts that were important:
 
@@ -44,9 +46,12 @@ I started daily entries in this app, with a personal goal of always entering the
 the caloric budget provided. This essentially meant that I could do whatever I wanted, alchohol or not, as long as I stayed within
 budget.
 
+I started tracking calories that day.
+
 ## January 2023
 
-- __Weight:__ 209.9 lbs
+- __Starting Weight__: 209.9 lbs
+- __Ending Weight__: 197.8 lbs
 
 I consistently entered in all of my calories daily; Usually rolling over calories from the day before if I went over. To
 aid in my weight loss goals, I also started researching various diets that would potentially be useful, and came to a few
@@ -88,6 +93,16 @@ Additionally to help in tracking my goals, I ordered:
 
 I've also been pretty bad with taking my supplements every day, but I do my best.
 
+## February 2023
+
+- __Starting Weight__: 196.8 lbs
+- __Ending Weight__: 189.4 lbs
+
+## March 2023
+
+- __Starting Weight__: 191.2 lbs
+- __Ending Weight__: 189.2 lbs
+
 ## March 12, 2023
 
 - __Weight:__ 191.2 lbs
@@ -116,6 +131,11 @@ has been weirdly useful, and gets me off the couch at to the gym. I don't go eve
 me out more than I thought I could. I ordered a few of his tanks, which I like quite a bit.
 
 - [Go To The Fucking Gym Men's Premium Tank Top](https://papaswolio.com/products/go-to-the-f-cking-gym-men-s-premium-tank-top-1)
+
+## April 2023
+
+- __Starting Weight__: 189.0 lbs
+- __Ending Weight__: TBD
 
 ## April 2nd 2023
 
