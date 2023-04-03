@@ -126,6 +126,9 @@ always been in my weight loss app, I've started to make specific effort to make 
 sufficient protein (Fiber has been a challenge even with the supplements, but that too) - So more protein drinks. Still
 considering Whey Powder but haven't found anything that doesn't sound disgusting.
 
+Because I basically owned 1 set of gym clothes, I also bought a few sets of various Joggers/Running Pants and a few workout
+tank tops (all of which I've not liked) off Amazon.
+
 ### March 21, 2023
 
 I use TikTok a lot for general happiness, but also started following a lot of influencers for gym, weight loss, etc. The
