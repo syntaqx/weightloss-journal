@@ -4,13 +4,12 @@
 
 ## November 2022
 
-In November of 2022 (likely because of Thanksgiving & general holiday shenanigans) I weighed myself at my highest weight ever, 220.
-This caused a cascade of self-reflection, and body dismorphia that made me realize changes were needed.
+Likely due to Thanksgiving, or general holiday shenanigans and laziness, I weighed myself at my highest ever weight: 220.
 
-In high-school, I played plenty of sports, and weighed the 165-175 range, with fairly low body fat/lean muscle.
-
-I've worked in Tech since 2004, so I spend 6-12 hours a day in front of a computer, which over time has contributed to my body
-having more fat, less muslce, and probably lots of other sad things. Becoming active needs to happen.
+This caused a cascade of body dismorphia, self-reflection, and mostly just made me realize changes were needed. In high
+school, I played plenty of sports, and weighed the 165-175 range, with fairly low body fat/lean muscle. I've worked in
+tech since 2004, so I spend 6-12 hours a day in front of a computer, which over time has contributed to my body having
+more fat, less muslce, and probably lots of other sad things. Becoming active needs to happen.
 
 ## November-December 2022
 
