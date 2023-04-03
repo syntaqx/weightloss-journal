@@ -98,6 +98,10 @@ I've also been pretty bad with taking my supplements every day, but I do my best
 - __Starting Weight__: 196.8 lbs
 - __Ending Weight__: 189.4 lbs
 
+Nothing of real note happened in February. My weight loss is going well, and I've mostly kept within my calory budget by week,
+not always by day. Still carrying calories over for nights that I go out drinking, and subtracting it from the calories I can have
+the next day (by adding something as an Early Snack called `Calories 500` or whatever my overage was)
+
 ## March 2023
 
 - __Starting Weight__: 191.2 lbs
