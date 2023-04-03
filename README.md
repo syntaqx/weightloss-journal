@@ -21,6 +21,7 @@ I started doing research with the following goals in mind:
 
 - [ ] I wanted to be able to drink alchohol still. My friends and I love going to Karaoke and things throughout the week, so it had to be compatible with my lifestyle
 - [ ] I wanted to be able to eat as my schedule allowed me to; My day-to-day is chaotic.
+- [ ] I smoke; cigarettes and vaping - While I want to eventually quit this too, I'm keeping focused on one problem at a time for sanity.
 - [ ] Everywhere else I could, I'd make a reasonable effort to stay within a diet/budget
 
 ## December 27th, 2022
@@ -29,7 +30,7 @@ Over the prior weeks, I was doing a lot of research regarding apps that I might 
 general solutions to help me keep my goals in line, and I essentially came down to two weight-loss facts that were important:
 
 - Intermittent Fasting is good, but not required
-- Calorie Counting in a calorie deficet was far more important
+- Operating in a caloric deficet was pretty much the only thing that mattered for weight loss
 
 And wound up finding an app that would help me with both: [Lose It!](https://www.loseit.com/)
 
@@ -93,6 +94,11 @@ of:
 
 The workouts per day can optionally be swapped around, just making sure I target all areas of the body throughout the 3
 days that I go, and a stretch goal of 4 days a week.
+
+Additionally, I wanted to make sure that I wasn't losing any muscle weight (and hopefully building some). Although it's
+always been in my weight loss app, I've started to make specific effort to make sure days that I'm at the gym I'm getting
+sufficient protein (Fiber has been a challenge even with the supplements, but that too) - So more protein drinks. Still
+considering Whey Powder but haven't found anything that doesn't sound disgusting.
 
 ## March 21, 2023
 
