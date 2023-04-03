@@ -94,6 +94,15 @@ of:
 The workouts per day can optionally be swapped around, just making sure I target all areas of the body throughout the 3
 days that I go, and a stretch goal of 4 days a week.
 
+## March 21, 2023
+
+I use TikTok a lot for general happiness, but also started following a lot of influencers for gym, weight loss, etc. The
+most significant of which has been Papa Swolio - I get a daily reminder on my news feed to "Go to the fucking gym" - Which
+has been weirdly useful, and gets me off the couch at to the gym. I don't go every day, as he recommends, but it does get
+me out more than I thought I could. I ordered a few of his tanks, which I like quite a bit.
+
+- [Go To The Fucking Gym Men's Premium Tank Top](https://papaswolio.com/products/go-to-the-f-cking-gym-men-s-premium-tank-top-1)
+
 ## April 2nd 2023
 
 We played our first game of golf today, and I also used a cart. _With_ the cart, I got my full 10,000 steps in and almost
