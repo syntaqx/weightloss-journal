@@ -130,7 +130,8 @@ most significant of which has been Papa Swolio - I get a daily reminder on my ne
 has been weirdly useful, and gets me off the couch at to the gym. I don't go every day, as he recommends, but it does get
 me out more than I thought I could. I ordered a few of his tanks, which I like quite a bit.
 
-- [Go To The Fucking Gym Men's Premium Tank Top](https://papaswolio.com/products/go-to-the-f-cking-gym-men-s-premium-tank-top-1)
+- [Go To The F*cking Gym Men's Premium Tank Top](https://papaswolio.com/products/go-to-the-f-cking-gym-men-s-premium-tank-top-1)
+- [Go To The F*cking Gym Tank Top](https://papaswolio.com/products/go-to-the-f-cking-gym-tank-top-3)
 
 ## April 2023
 
