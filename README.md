@@ -160,9 +160,10 @@ the gym before 6pm. I also picked up a few other useful things:
 I use TikTok a lot for general happiness, but also started following a lot of influencers for gym, weight loss, etc. The
 most significant of which has been Papa Swolio - I get a daily reminder on my news feed to "Go to the fucking gym" - Which
 has been weirdly useful, and gets me off the couch at to the gym. I don't go every day, as he recommends, but it does get
-me out more than I thought I could. I ordered a few of his tanks, which I like quite a bit.
+me out more than I thought I could. I ordered a few of his tanks in various colors/qualities, all of which I've liked:
 
 - [Go To The F*cking Gym Men's Premium Tank Top](https://papaswolio.com/products/go-to-the-f-cking-gym-men-s-premium-tank-top-1)
+- [Go To The F*cking Gym Premium Tank Top](https://papaswolio.com/products/go-to-the-f-cking-gym-premium-tank-top-1?variant=39620743430240)
 - [Go To The F*cking Gym Tank Top](https://papaswolio.com/products/go-to-the-f-cking-gym-tank-top-3)
 
 ## April 2023
