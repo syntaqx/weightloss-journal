@@ -31,6 +31,7 @@ I started doing research with the following goals in mind:
 - [ ] I wanted to be able to drink alchohol still. My friends and I love going to karaoke and things throughout the week, so it had to be compatible with my lifestyle
 - [ ] I wanted to be able to eat as my schedule allowed me to; My day-to-day is chaotic.
 - [ ] I smoke: cigarettes and vaping - While I want to eventually quit this too, I'm keeping focused on one problem at a time for sanity.
+- [ ] I know that sleep is important, but my work and social schedule doesn't allow me to keep a consistent sleep schedule; one problem at a time.
 - [ ] Everywhere else I could, I'd make a reasonable effort to stay within a diet/budget
 
 ## December 27th, 2022
@@ -124,9 +125,13 @@ I've hit a weird plateau in my weight loss around 190lbs. To help in this, I've 
 I purchased a Black Membership (their highest level) so I could bring a friend with me every Sunday, with a soft goal
 of:
 
-- __Sunday__: Upper Body; 3 Miles Cardio (1-2 hours total)
-- __Monday__: Lower Body; 3 Miles Cardio (1-2 hours total)
-- __Tuesday__: Back/Core; 3 Miles Cardio (1-2 hours total)
+- __Sunday__: Upper Body; 1-3 Miles Cardio (1-2 hours total)
+- __Monday__: Lower Body; 1-3 Miles Cardio (1-2 hours total)
+- __Tuesday__: Back/Core; 1-3 Miles Cardio (1-2 hours total)
+
+> __Note__: I both hate, and can't jog/run for longer periods of time (likely because I'm a smoker). My goal is the steps
+> and 5 miles/day that FitBit recommends I get. I seem to be able to hit that with my 1-3 mile range and average the other
+> 2 from daily activities.
 
 > The workouts per day can optionally be swapped around, just making sure I target all areas of the body throughout the 3
 days that I go, and a stretch goal of 4 days a week.
@@ -195,7 +200,9 @@ so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gain
 - Saw these in a low-calorie/high-protein recipe on TikTok and ordered them
   - [Walden Farms Ranch Dressing](https://www.amazon.com/gp/product/B01HUC6E9Q/)
   - [Walden Farms Chipotle Ranch Dressing](https://www.amazon.com/gp/product/B008230BCE/)
-- 
+- I wasn't able to hit my cardio that I wanted at the gym today becacuse it won't stop freaking snowing and I didn't wear my gym
+  shoes so my feet wouldn't be soaked. I walked half a mile though.
+
 ## Goal
 
 - __Initial Goal Projection__: May 4th
