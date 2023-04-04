@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/6037730/229620672-2c7385cb-cae9-4958-b4e8-f13e0bc8badf.png)
 
-> __Note__: I'm stil on my journey, so I'll post more as I hit my goal(s).
+> __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
 
 ## November 2022
 
