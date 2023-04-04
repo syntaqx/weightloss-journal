@@ -3,7 +3,10 @@
 ## Summary
 
 - __Starting Month__: 220 lbs (November 2022)
-- __Current Weight__: 186 lbs (Updated 4/4/2023)
+- __Current Weight__: 189 lbs (Updated 4/4/2023)
+- __Goal Weight__: 175 lbs
+- __Initial Goal Projection__: May 4 2023
+- __Current Goal Projection__: May 22 2023
 
 ![image](https://user-images.githubusercontent.com/6037730/229620672-2c7385cb-cae9-4958-b4e8-f13e0bc8badf.png)
 
@@ -223,8 +226,3 @@ Monday-Sunday Goal:
 Considering buying cross trainer shoes, as my current running shoes are starting to hurt my feet. Most options on Amazon
 look like $50-$70, all the way up to like $150 for anything with good reviews; may just stop into a local shop and pick
 some up though so I can be sure they fit well, and have them for todays workout.
-
-## Goal
-
-- __Initial Goal Projection__: May 4th
-- __Current Goal Projection__: May 22nd
