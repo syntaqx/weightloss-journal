@@ -3,12 +3,12 @@
 ## Summary
 
 - __Starting Month__: 220 lbs (November 2022)
-- __Current Weight__: 189 lbs (Updated 4/4/2023)
+- __Current Weight__: 186.2 lbs (Updated 4/4/2023)
 - __Goal Weight__: 175 lbs
 - __Initial Goal Projection__: May 4 2023
-- __Current Goal Projection__: May 22 2023
+- __Current Goal Projection__: May 15 2023
 
-![image](https://user-images.githubusercontent.com/6037730/229620672-2c7385cb-cae9-4958-b4e8-f13e0bc8badf.png)
+![image](https://user-images.githubusercontent.com/6037730/229905887-00351135-adac-4051-a242-aa54879095ee.png)
 
 > __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
 
@@ -216,11 +216,11 @@ so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gain
 
 ### April 4th 2023
 
-- __Todays Weight__: TBD
+- __Todays Weight__: 186.2
 
 Monday-Sunday Goal:
 
-- Let's see if we can all-time-low weigh at 185 lbs, currently the ATL is 186.6 lbs
+- Let's see if we can get an ATL (all-time-low) of 185, todays weigh in was the lowest so far.
 - Hit daily protein, fiber and caloric deficit goals every day this week (without any carry over days)
 - 64oz of water every day, at minimum
 - No alchohol this week, which is a bummer, but it's not doing me any favors. I'll make up for it next week.
