@@ -90,7 +90,7 @@ Additionally to help in acheiving and tracking my goals, I ordered:
   - [Soylent Chocolate High Protein Nutrition Shake](https://soylent.com/products/soylent-complete-protein-chocolate)
   - [Optimum Nutrition Gold Standard Protein Shake, Chocolate](https://www.amazon.com/gp/product/B09V1S9168/)
   - [Quest Nutrition Oatmeal Chocolate Chip Protein Bar](https://www.amazon.com/gp/product/B01IRE8IQ8/)
-  - [think! Protein Bars](https://www.amazon.com/gp/product/B000CRHQN0/)
+  - [think! Protein Bars - Chunky Peanut Butter](https://www.amazon.com/gp/product/B000CRHQN0/)
 - **Daily Supplements:**
   - [One A Day Men's Multivitamin](https://www.amazon.com/gp/product/B001F71XAI/)
   - [Zero for Him Dietary Fiber Supplement](https://www.amazon.com/gp/product/B074DPWKJV/)
