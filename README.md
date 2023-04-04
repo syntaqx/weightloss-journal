@@ -80,7 +80,7 @@ This program seem to hit all of my requirements, so I'm committing to it.
 Additionally to help in acheiving and tracking my goals, I ordered:
 
 - [Enerbone 32oz Water Bottle](https://www.amazon.com/gp/product/B09W981XT2/)
-  - I found that with a slightly larger bottle, I was able to drink my 64oz of water a day easier than having to refill smaller ones that I already had; But too big and I wouldn't bring it with me.
+  - I found that with a slightly larger bottle, I was able to drink my 64oz of water a day easier than having to refill smaller ones that I already had; But too big and I wouldn't carry it around. This also fit in my cars cup holder.
 - [Fitbit Versa 4](https://www.fitbit.com/global/us/products/smartwatches/versa4)
   - Set my daily step goal to 8500, which was pretty high for my sedentary life style.
 - [Fitbit Aria Air](https://www.fitbit.com/global/us/products/scales/aria-air?sku=203BK)
