@@ -154,7 +154,7 @@ tank tops (all of which I've not liked), and Compression Pants/Capris off Amazon
 I also picked up some preworkout at EoS - It's awful tasting so I won't recommend it. I plan to use this on days that I'm at
 the gym before 6pm. I also picked up a few other useful things:
 
-- [BlenderBottle Classic Shaker Bottle](https://www.amazon.com/dp/B01LZ2UP91/) - The lid doesn't seal without significant after dish washing it, I'll probably buy another one.
+- [BlenderBottle Classic Shaker Bottle](https://www.amazon.com/dp/B01LZ2UP91/) - The lid doesn't seal without significant force after I washed it in the dishwasher, I'll probably buy another one from another brand.
 - [Compression Running Socks](https://www.amazon.com/dp/B07WVPQ1SK/) - I'm tired of having to use my day socks for Gym things.
 
 ### March 21, 2023
