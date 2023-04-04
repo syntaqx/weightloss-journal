@@ -183,8 +183,6 @@ This will stub in for cardio on Sundays. Gym was exhausting today as a side effe
 
 ### April 3rd, 2023
 
-- __Streak:__ 94 days
-- __Lowest Recorded Weight__: 186.6 lbs
 - __Todays Weight__: 188.4 lbs
 
 I'm still weirdly plateaud between 186-190lbs, although I'm actually starting to notice changes with my fat distribution and
@@ -208,7 +206,20 @@ so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gain
 - I wasn't able to hit my cardio that I wanted at the gym today becacuse it won't stop freaking snowing and I didn't wear my gym
   shoes so my feet wouldn't be soaked. I walked half a mile though.
 
+### April 4th 2023
+
+Monday-Sunday Goal:
+
+- Let's see if we can all-time-low weigh at 185 lbs, currently the ATL is 186.6 lbs
+- Hit daily protein, fiber and caloric deficit goals every day this week (without any carry over days)
+- 64oz of water every day, at minimum
+- No alchohol this week, which is a bummer, but it's not doing me any favors. I'll make up for it next week.
+
+Considering buying cross trainer shoes, as my current running shoes are starting to hurt my feet. Most options on Amazon
+look like $50-$70, all the way up to like $150 for anything with good reviews; may just stop into a local shop and pick
+some up though so I can be sure they fit well, and have them for todays workout.
+
 ## Goal
 
 - __Initial Goal Projection__: May 4th
-- __Current Goal Projection__: May 21st
+- __Current Goal Projection__: May 22nd
