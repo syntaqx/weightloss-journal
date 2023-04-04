@@ -1,6 +1,10 @@
 # Weightloss Journal
 
+## Summary
+
 ![image](https://user-images.githubusercontent.com/6037730/229620672-2c7385cb-cae9-4958-b4e8-f13e0bc8badf.png)
+
+> __Note__: I'm stil on my journey, so I'll post more as I hit my goal(s).
 
 ## November 2022
 
@@ -73,22 +77,28 @@ With an additional soft goal of:
 
 This program seem to hit all of my requirements, so I'm committing to it.
 
-Additionally to help in tracking my goals, I ordered:
+Additionally to help in acheiving and tracking my goals, I ordered:
 
+- [Enerbone 32oz Water Bottle](https://www.amazon.com/gp/product/B09W981XT2/)
+  - I found that with a slightly larger bottle, I was able to drink my 64oz of water a day easier than having to refill smaller ones that I already had; But too big and I wouldn't bring it with me.
 - [Fitbit Versa 4](https://www.fitbit.com/global/us/products/smartwatches/versa4)
+  - Set my daily step goal to 8500, which was pretty high for my sedentary life style.
 - [Fitbit Aria Air](https://www.fitbit.com/global/us/products/scales/aria-air?sku=203BK)
-- [Soylent Chocolate High Protein Nutrition Shake](https://soylent.com/products/soylent-complete-protein-chocolate)
-- [One A Day Men's Multivitamin](https://www.amazon.com/gp/product/B001F71XAI/)
-- [Zero for Him Dietary Fiber Supplement](https://www.amazon.com/gp/product/B074DPWKJV/)
-- [Nature Made Fish Oil Minis](https://www.amazon.com/gp/product/B09SRB8BXP/)
+  - Sounded pretty cool that it would enter my weight in the app automatically when I stepped on it.
+- Protein Supplement:
+  - [Soylent Chocolate High Protein Nutrition Shake](https://soylent.com/products/soylent-complete-protein-chocolate)
+  - [Optimum Nutrition Gold Standard Protein Shake, Chocolate](https://www.amazon.com/gp/product/B09V1S9168/)
+- **Daily Supplements:**
+  - [One A Day Men's Multivitamin](https://www.amazon.com/gp/product/B001F71XAI/)
+  - [Zero for Him Dietary Fiber Supplement](https://www.amazon.com/gp/product/B074DPWKJV/)
+  - [Nature Made Fish Oil Minis](https://www.amazon.com/gp/product/B09SRB8BXP/)
 
 ### Updates on the tech choices
 
 - The Fitbit Versa 4 does not seem to work on my non-dominant arm because of my tattoo. Works fine on my dominant arm.
-- The Fitbit Area Air sync feature is pretty awful, and only works maybe 40% of the time - I manually enter a lot of the weights
-- Soylent is delicious, but I still have trouble hitting my protein goals. Going to try some other brands as well, but honestly
-  I need to eventually do meal prep; But haven't been able to trick my brain into liking it yet. I ordered the following:
-  - [Optimum Nutrition Gold Standard Protein Shake, Chocolate](https://www.amazon.com/gp/product/B09V1S9168/)
+- The Fitbit Area Air weight sync feature is pretty awful, and only works maybe 40% of the time - I manually enter a lot of the weights. Would not recommend.
+- Soylent is delicious and has lots of good vitamins and shit too, but I still have trouble hitting my protein goals, especially on days that I want to drink.
+  I eventually should do some meal prep for the week, but I haven't been able to trick myself into enjoying it yet. I like food diversity a **LOT**.
 
 I've also been pretty bad with taking my supplements every day, but I do my best.
 
@@ -129,8 +139,14 @@ always been in my weight loss app, I've started to make specific effort to make 
 sufficient protein (Fiber has been a challenge even with the supplements, but that too) - So more protein drinks. Still
 considering Whey Powder but haven't found anything that doesn't sound disgusting.
 
-Because I basically owned 1 set of gym clothes, I also bought a few sets of various Joggers/Running Pants and a few workout
-tank tops (all of which I've not liked) off Amazon.
+Because I basically owned 1 set of gym clothes, I also bought a few sets of various Joggers/Running Pants, a few workout
+tank tops (all of which I've not liked), and Compression Pants/Capris off Amazon.
+
+I also picked up some preworkout at EoS - It's awful tasting so I won't recommend it. I plan to use this on days that I'm at
+the gym before 6pm. I also picked up a few other useful things:
+
+- [BlenderBottle Classic Shaker Bottle](https://www.amazon.com/dp/B01LZ2UP91/) - The lid doesn't seal without significant after dish washing it, I'll probably buy another one.
+- [Compression Running Socks](https://www.amazon.com/dp/B07WVPQ1SK/) - I'm tired of having to use my day socks for Gym things.
 
 ### March 21, 2023
 
@@ -173,7 +189,13 @@ so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gain
 - While my week-to-week has been okay, I've certainly been drinking a lot more the last little bit due to stressful things in my
   personal life. Cutting back on this while maintaining my daily caloric budget and gym goals through the week might be what gets
   me past the 185 mark.
-
+- The gym bag I've been using has sucked, and a lot of "nice" ones seem stupid expensive. I found one that is relatively affordable
+  that I ordered, hopefully it's good.
+  - [SOAEON Small Fitness Workout Sports Duffle Bag with Wet Pocket & Shoes Compartment](https://www.amazon.com/dp/B099RNQTBQ)
+- Saw these in a low-calorie/high-protein recipe on TikTok and ordered them
+  - [Walden Farms Ranch Dressing](https://www.amazon.com/gp/product/B01HUC6E9Q/)
+  - [Walden Farms Chipotle Ranch Dressing](https://www.amazon.com/gp/product/B008230BCE/)
+- 
 ## Goal
 
 - __Initial Goal Projection__: May 4th
