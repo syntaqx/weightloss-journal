@@ -36,7 +36,7 @@ I started doing research with the following goals in mind:
 
 ## December 27th, 2022
 
-- __Weight__: 210 lbs
+- __Todays Weight__: 210 lbs
 
 Over the prior weeks, I was doing a lot of research regarding apps that I might use to help with my Intermittent Fasting, or
 general solutions to help me keep my goals in line, and I essentially came down to two weight-loss facts that were important:
@@ -123,7 +123,7 @@ the next day (by adding something as an Early Snack called `Calories 500` or wha
 
 ### March 12, 2023
 
-- __Weight:__ 191.2 lbs
+- __Todays Weight:__ 191.2 lbs
 
 I've hit a weird plateau in my weight loss around 190lbs. To help in this, I've started a membership with [EōS Fitness](https://eosfitness.com/).
 I purchased a Black Membership (their highest level) so I could bring a friend with me every Sunday, with a soft goal
@@ -159,7 +159,7 @@ the gym before 6pm. I also picked up a few other useful things:
 
 ### March 21, 2023
 
-- __Weight__: 191.0 lbs
+- __Todays Weight__: 191.0 lbs
 
 I use TikTok a lot for general happiness, but also started following a lot of influencers for gym, weight loss, etc. The
 most significant of which has been Papa Swolio - I get a daily reminder on my news feed to "Go to the fucking gym" - Which
@@ -207,6 +207,8 @@ so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gain
   shoes so my feet wouldn't be soaked. I walked half a mile though.
 
 ### April 4th 2023
+
+- __Todays Weight__: TBD
 
 Monday-Sunday Goal:
 
