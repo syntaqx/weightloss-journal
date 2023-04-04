@@ -212,6 +212,8 @@ so slightly, so I'm hoping that I'm just losing fat, and gaining some early-gain
 - I wasn't able to hit my cardio that I wanted at the gym today becacuse it won't stop freaking snowing and I didn't wear my gym
   shoes so my feet wouldn't be soaked. I walked half a mile though.
 
+> __Note__: Today is the day I started this journal.
+
 ### April 4th 2023
 
 - __Todays Weight__: TBD
