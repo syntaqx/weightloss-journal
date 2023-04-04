@@ -89,6 +89,8 @@ Additionally to help in acheiving and tracking my goals, I ordered:
 - Protein Supplement:
   - [Soylent Chocolate High Protein Nutrition Shake](https://soylent.com/products/soylent-complete-protein-chocolate)
   - [Optimum Nutrition Gold Standard Protein Shake, Chocolate](https://www.amazon.com/gp/product/B09V1S9168/)
+  - [Quest Nutrition Oatmeal Chocolate Chip Protein Bar](https://www.amazon.com/gp/product/B01IRE8IQ8/)
+  - [think! Protein Bars](https://www.amazon.com/gp/product/B000CRHQN0/)
 - **Daily Supplements:**
   - [One A Day Men's Multivitamin](https://www.amazon.com/gp/product/B001F71XAI/)
   - [Zero for Him Dietary Fiber Supplement](https://www.amazon.com/gp/product/B074DPWKJV/)
@@ -100,6 +102,8 @@ Additionally to help in acheiving and tracking my goals, I ordered:
 - The Fitbit Area Air weight sync feature is pretty awful, and only works maybe 40% of the time - I manually enter a lot of the weights. Would not recommend.
 - Soylent is delicious and has lots of good vitamins and shit too, but I still have trouble hitting my protein goals, especially on days that I want to drink.
   I eventually should do some meal prep for the week, but I haven't been able to trick myself into enjoying it yet. I like food diversity a **LOT**.
+- The Quest Oatmeal Chocolate Chip Bars taste awful
+- The think! bars are significantly better, but have much less protein in them.
 
 I've also been pretty bad with taking my supplements every day, but I do my best.
 
