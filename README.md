@@ -228,3 +228,85 @@ Monday-Sunday Goal:
 Considering buying cross trainer shoes, as my current running shoes are starting to hurt my feet. Most options on Amazon
 look like $50-$70, all the way up to like $150 for anything with good reviews; may just stop into a local shop and pick
 some up though so I can be sure they fit well, and have them for todays workout.
+
+### April 5th 2023
+
+- __Todays Weight__: 186.8
+
+Last night while I was on the treadmill trying to get my 10k steps and 5 miles for the day covered, I was listening to some videos
+covering articles regarding protein, givenn that I wanted to buy some protein powder to hopefully make it significantly easier for
+me to acheive my protein goals (it's been a struggle). Some of the information I found out is:
+
+- 50% of Americans aren't even hitting their minimum protein goal
+- Not all protein is treated equal, so 30g of protein isn't necessarily 30g of protein
+  - We absorb and utilize certain proteins better than others
+  - There's a scoring system called DIAAS (Digestible Indispensable Amino Acid Score) (recognized by the FAO) that tells you the "quality" of a protein
+  - The quality is measured by digestability and essential amino acids
+
+#### DIAAS%
+
+<details>
+    <summary>High Quality Proteins</summary>
+    - 114 - Cows Milk
+    - 113 - Boiled Eggs
+    - 111 - Beef
+    - 108 - Chicken Breast
+</details>
+
+<details>
+    <summary>Good Quality Proteins</summary>
+    - 92 - Soy Protein
+    - 92 - Pea Protein
+    - 84 - Baked Chickpeas
+</details>
+
+<details>
+    <summary>Poor Quality Proteins</summary>
+    - 59 - Rice
+    - 54 - Lentils
+    - 47 - Wheat Bread?
+    - 43 - Peanuts
+    - 40 - Almonds
+    - 29 - Bread
+</details>
+
+People often just assume 18 grams of protein from chicken is the same as 18
+grams of protein from lentils or a peanut butter sandwich or some eggs.
+
+Now, here’s something you might find surprising. 50 grams of protein per day is
+the minimum protein requirement for adults*, and if you look here, most of these
+103 countries get most of their protein from plants and they’re hitting their
+50grams a day just fine. But plant proteins aren’t digested as well, so if you
+incorporate the digestibility of the proteins, far more countries are just under the
+50g requirement. Now, if you account for the fact that many plant proteins don’t
+provide enough of one or more of the essential amino acids and therefore that
+protein can’t be fully utilized, then it turns out that none of these 103 countries
+are hitting the 50g protein requirement.[9]
+
+*In fact, the RDA is for high quality protein.
+
+![image](https://user-images.githubusercontent.com/6037730/230249372-fb68b192-7ff4-4797-90d9-919c3761ba80.png)
+
+> Population protein intakes and food sustainability indices: [The metrics matter](https://www.sciencedirect.com/science/article/abs/pii/S2211912421000572?via%3Dihub)
+
+Now these countries could certainly hit the 50 grams of utilizable protein by
+simply eating a lot more plant protein. In developed countries we simply eat a
+bunch of protein in total so this is less of an issue.
+
+But, research suggests that protein quality may still matter.
+
+> Read the full transcript here: [Protein is not protein. Here's why](Protein is not protein. Here’s why [Transcript with Source].pdf)
+
+#### So what am I doing about it?
+
+All of this research essentialy boils into a few goals for me:
+
+1. Try to focus on high quality proteins to keep digestability high, and allowing me to get essential amino acids without much effort
+2. Soylent is a Soy protein, which while still good, means I should buy a Whey protein to supplement when I'm not using Soylent.
+3. I should eat a lot more eggs, because they're pretty easy to just boil and throw back.
+
+So I ended up buying [Isopure Unflavored Protein Powder](https://www.amazon.com/dp/B00SCO8AA8/) from Walmart (link is to Amazon).
+In hopes that I could just add it to a glass of 2% milk and call it a day. This was a mistake. While I think Unflavored protein
+will go great in things like smoothies or other foods, the blandness of Whey overpowered the taste of milk.. man was it rough
+to choke the glass down. I will likely be picking up some Chocolate Whey Protein at Gym today (going additional times this week
+so I can hopefully hit my 185 goal), as Chocolate Milk seems significantly easier to drink than the monstrocity I just tasted.
