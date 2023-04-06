@@ -234,7 +234,7 @@ some up though so I can be sure they fit well, and have them for todays workout.
 - __Todays Weight__: 186.8
 
 Last night while I was on the treadmill trying to get my 10k steps and 5 miles for the day covered, I was listening to some videos
-covering articles regarding protein, givenn that I wanted to buy some protein powder to hopefully make it significantly easier for
+covering articles regarding protein, given that I wanted to buy some protein powder to hopefully make it significantly easier for
 me to acheive my protein goals (it's been a struggle). Some of the information I found out is:
 
 - 50% of Americans aren't even hitting their minimum protein goal
