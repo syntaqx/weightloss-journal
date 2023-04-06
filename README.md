@@ -300,7 +300,7 @@ bunch of protein in total so this is less of an issue.
 
 But, research suggests that protein quality may still matter.
 
-> Read the full transcript here: [Protein is not protein. Here's why](Protein is not protein.pdf)
+> Read the full transcript [here](protein-is-not-protein.pdf)
 
 #### So what am I doing about it?
 
