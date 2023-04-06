@@ -2,7 +2,7 @@
 
 ## Summary
 
-- __Starting Month__: 220 lbs (November 2022)
+- __Starting Weight__: 220 lbs (November 2022)
 - __Current Weight__: 186.2 lbs (Updated 4/4/2023)
 - __Goal Weight__: 175 lbs
 - __Initial Goal Projection__: May 4 2023
