@@ -322,12 +322,17 @@ so I can hopefully hit my 185 goal), as Chocolate Milk seems significantly easie
 
 - __Todays Weight:__ 186.8
 
-- Going to start weighing myself under the following criteria to try and get consistent results:
-  - I've completed a 12 hour fast
-  - I've slept within that fast
-  - Which implies I wasn't drinking much water for the last 6 hours
-  - This usually means I'm weighing myself in the mornings-noon
-- Purchased a few things:
-  - [Isopure Protein Powder Chocolate](https://www.amazon.com/dp/B07PHHKV6X) - Time to attempt 2% Milk + Chocolate for better flavor, I'll follow up after I've tried it
-  - [NonEcho Men Sauna Vest](https://www.amazon.com/dp/B01767LOYU) - This should be really nice for the Sauna at EoS; Have been doing research that Sauna a few times a week is both good for health, and it's free calories burnt
-  - [MEETWOO Mens Compression Pants](https://www.amazon.com/gp/product/B09N8Z11YQ/) - I never seem to have enough because I'm lazy and barely do laundry
+Going to start weighing myself under the following criteria to try and get consistent results:
+
+- I've completed a 12 hour fast
+- I've slept within that fast
+- Which implies I wasn't drinking much water for the last 6 hours
+- This usually means I'm weighing myself in the mornings-noon
+
+Purchased a few things:
+
+- [Isopure Protein Powder Chocolate](https://www.amazon.com/dp/B07PHHKV6X) - Time to attempt 2% Milk + Chocolate for better flavor, I'll follow up after I've tried it
+- [NonEcho Men Sauna Vest](https://www.amazon.com/dp/B01767LOYU) - This should be really nice for the Sauna at EoS; Have been doing research that Sauna a few times a week is both good for health, and it's free calories burnt
+- [MEETWOO Mens Compression Pants](https://www.amazon.com/gp/product/B09N8Z11YQ/) - I never seem to have enough because I'm lazy and barely do laundry
+
+I've unfortunately got a blister on my right foot (2nd smallest toe) so I think I'll have to pass on gym today. Going to try to eat light to compensate; and a rest day is probably good for the body.
