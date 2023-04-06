@@ -326,7 +326,8 @@ Going to start weighing myself under the following criteria to try and get consi
 
 - I've completed a 12 hour fast
 - I've slept within that fast
-- Which implies I wasn't drinking much water for the last 6 hours
+  - Which implies I wasn't drinking much water for the last 6 hours
+- I've gone to the restroom, and weigh myself prior to eating that day
 - This usually means I'm weighing myself in the mornings-noon
 
 Additionally, while at the gym yesterday I did a bunch of research on YouTube regarding Whey Protein quality, reviews and such, and
