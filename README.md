@@ -324,7 +324,7 @@ so I can hopefully hit my 185 goal), as Chocolate Milk seems significantly easie
 
 Going to start weighing myself under the following criteria to try and get consistent results:
 
-- I've completed a _at least_ a 12 hour fast
+- I've completed _at least_ a 12 hour fast
 - I've slept within that fast
   - Which implies I wasn't drinking much water for the last 6 hours
 - I've gone to the restroom, and weigh myself prior to eating that day
