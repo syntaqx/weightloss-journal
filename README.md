@@ -247,27 +247,32 @@ me to acheive my protein goals (it's been a struggle). Some of the information I
 
 <details>
     <summary>High Quality Proteins</summary>
-    - 114 - Cows Milk
-    - 113 - Boiled Eggs
-    - 111 - Beef
-    - 108 - Chicken Breast
+
+- 114 - Cows Milk
+- 113 - Boiled Eggs
+- 111 - Beef
+- 108 - Chicken Breast
+  
 </details>
 
 <details>
     <summary>Good Quality Proteins</summary>
-    - 92 - Soy Protein
-    - 92 - Pea Protein
-    - 84 - Baked Chickpeas
+
+- 92 - Soy Protein
+- 92 - Pea Protein
+- 84 - Baked Chickpeas
+  
 </details>
 
 <details>
     <summary>Poor Quality Proteins</summary>
-    - 59 - Rice
-    - 54 - Lentils
-    - 47 - Wheat Bread?
-    - 43 - Peanuts
-    - 40 - Almonds
-    - 29 - Bread
+
+- 59 - Rice
+- 54 - Lentils
+- 47 - Wheat Bread?
+- 43 - Peanuts
+- 40 - Almonds
+- 29 - Bread
 </details>
 
 People often just assume 18 grams of protein from chicken is the same as 18
