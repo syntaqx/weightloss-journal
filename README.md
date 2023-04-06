@@ -329,6 +329,13 @@ Going to start weighing myself under the following criteria to try and get consi
 - Which implies I wasn't drinking much water for the last 6 hours
 - This usually means I'm weighing myself in the mornings-noon
 
+Additionally, while at the gym yesterday I did a bunch of research on YouTube regarding Whey Protein quality, reviews and such, and
+essentially came down to a few important characteristics that I wanted from my protein powder:
+
+- Whey Protein Isolate > Whey Protein Concentrate; Isolate goes under more processing, which results in higher protein content with less carbs, lactose and fat
+- Most Whey Proteins use a combination of Isolate& Concentrate, often prioritizing Concentrate as it's cheaper
+- Isopure _does not_ use Concentrate, although is does include Soy as well.
+
 Purchased a few things:
 
 - [Isopure Protein Powder Chocolate](https://www.amazon.com/dp/B07PHHKV6X) - Time to attempt 2% Milk + Chocolate for better flavor, I'll follow up after I've tried it
