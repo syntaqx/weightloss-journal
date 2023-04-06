@@ -304,14 +304,16 @@ But, research suggests that protein quality may still matter.
 
 #### So what am I doing about it?
 
-All of this research essentialy boils into a few goals for me:
+This above transcript, as well as additional information that the biggest thing that mattered for gaining muscle was simply just going
+to the gym, and (if I remember correctly) only ~17% additional gains would even be made by adding protein. So, me sticking to the 131g
+of protein by day would likely be sufficient, when applying a few goals:
 
-1. Try to focus on high quality proteins to keep digestability high, and allowing me to get essential amino acids without much effort
+1. Try to focus on high quality proteins to keep digestability high, and allowing me to get essential amino acids without much effort - This means Whey for me.
 2. Soylent is a Soy protein, which while still good, means I should buy a Whey protein to supplement when I'm not using Soylent.
 3. I should eat a lot more eggs, because they're pretty easy to just boil and throw back.
 
 So I ended up buying [Isopure Unflavored Protein Powder](https://www.amazon.com/dp/B00SCO8AA8/) from Walmart (link is to Amazon).
 In hopes that I could just add it to a glass of 2% milk and call it a day. This was a mistake. While I think Unflavored protein
 will go great in things like smoothies or other foods, the blandness of Whey overpowered the taste of milk.. man was it rough
-to choke the glass down. I will likely be picking up some Chocolate Whey Protein at Gym today (going additional times this week
+to choke the glass down. I will likely be picking up some Chocolate Whey Protein at Gym tonight (going additional times this week
 so I can hopefully hit my 185 goal), as Chocolate Milk seems significantly easier to drink than the monstrocity I just tasted.
