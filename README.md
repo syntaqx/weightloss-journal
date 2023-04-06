@@ -334,7 +334,7 @@ Additionally, while at the gym yesterday I did a bunch of research on YouTube re
 essentially came down to a few important characteristics that I wanted from my protein powder:
 
 - Whey Protein Isolate > Whey Protein Concentrate; Isolate goes under more processing, which results in higher protein content with less carbs, lactose and fat
-- Most Whey Proteins use a combination of Isolate& Concentrate, often prioritizing Concentrate as it's cheaper
+- Most Whey Proteins use a combination of Isolate __and__ Concentrate, often prioritizing Concentrate as it's cheaper
 - Isopure _does not_ use Concentrate, although is does include Soy as well.
 
 Purchased a few things:
