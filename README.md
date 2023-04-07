@@ -6,7 +6,7 @@
 - __Current Weight__: 186.2 lbs (Updated 4/4/2023)
 - __Goal Weight__: 175 lbs
 - __Initial Goal Projection__: May 4 2023
-- __Current Goal Projection__: May 15 2023
+- __Current Goal Projection__: May 15-25 2023
 
 ![image](https://user-images.githubusercontent.com/6037730/229905887-00351135-adac-4051-a242-aa54879095ee.png)
 
@@ -312,7 +312,7 @@ of protein by day would likely be sufficient, when applying a few goals:
 2. Soylent is a Soy protein, which while still good, means I should buy a Whey protein to supplement when I'm not using Soylent.
 3. I should eat a lot more eggs, because they're pretty easy to just boil and throw back.
 
-So I ended up buying [Isopure Unflavored Protein Powder](https://www.amazon.com/dp/B00SCO8AA8/) from Walmart (link is to Amazon).
+So I ended up buying [Isopure Protein Powder - Unflavored](https://www.amazon.com/dp/B00SCO8AA8/) from Walmart (link is to Amazon).
 In hopes that I could just add it to a glass of 2% milk and call it a day. This was a mistake. While I think Unflavored protein
 will go great in things like smoothies or other foods, the blandness of Whey overpowered the taste of milk.. man was it rough
 to choke the glass down. I will likely be picking up some Chocolate Whey Protein at Gym tonight (going additional times this week
@@ -341,10 +341,16 @@ essentially came down to a few important characteristics that I wanted from my p
 
 Purchased a few things:
 
-- [Isopure Protein Powder Chocolate](https://www.amazon.com/dp/B07PHHKV6X) - Time to attempt 2% Milk + Chocolate for better flavor, I'll follow up after I've tried it
+- [Isopure Protein Powder - Dark Chocolate](https://www.amazon.com/dp/B07PHHKV6X) - Time to attempt 2% Milk + Chocolate for better flavor, I'll follow up after I've tried it
 - [NonEcho Men Sauna Vest](https://www.amazon.com/dp/B01767LOYU) - This should be really nice for the Sauna at EoS; Have been doing research that Sauna a few times a week is both good for health, and it's free calories burnt
 - [MEETWOO Mens Compression Pants](https://www.amazon.com/gp/product/B09N8Z11YQ/) - I never seem to have enough because I'm lazy and barely do laundry
 
 I've unfortunately got a blister on my right foot (2nd smallest toe) which makes it pretty impossible for me to do cardio without aggrevating it.
 Potentially not going to the gym today, or if I do, just going to use the new sauna vest to compensate. Plus a little rest for the body is likely
 good as this is the most I've gone to gym in a week, and my body isn't used to the stress of it.
+
+### April 7th 2023
+
+- __Todays Weight:__ 186.2 lbs (UGH SO CLOSE TO 185!)
+
+- The Isopure Dark Chocolate with Milk is awesome and 38.5% for 400ml (1 scoop + 2% milk)
