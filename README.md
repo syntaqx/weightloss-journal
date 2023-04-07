@@ -353,7 +353,7 @@ good as this is the most I've gone to gym in a week, and my body isn't used to t
 
 - __Todays Weight:__ 186.2 lbs (UGH SO CLOSE TO 185!)
 
-The Isopure Dark Chocolate with Milk is awesome and 38.5% for 400ml (1 scoop + 2% milk).
+The Isopure Dark Chocolate with Milk is awesome and 38.5g of protein for 400ml (1 scoop + 2% milk).
 
 I got a tattoo on my shoulder today, so no gym possibilities, which is probably pretty good given that my body could use a rest (my lower legs are starting to hurt from cardio).
 
