@@ -3,12 +3,12 @@
 ## Summary
 
 - __Starting Weight__: 220 lbs (November 2022)
-- __Current Weight__: 186.2 lbs (Updated 4/4/2023)
+- __Current Weight__: 185 lbs (Updated 4/10/2023)
 - __Goal Weight__: 175 lbs
 - __Initial Goal Projection__: May 4 2023
 - __Current Goal Projection__: May 15-25 2023
 
-![image](https://user-images.githubusercontent.com/6037730/229905887-00351135-adac-4051-a242-aa54879095ee.png)
+![image](https://user-images.githubusercontent.com/6037730/230985551-90d88fad-b051-407c-9ff5-202a14a51a1f.png)
 
 > __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
 
@@ -359,3 +359,12 @@ I got a tattoo on my shoulder today, so no gym possibilities, which is probably 
 
 Going to attempt to hit my protein goal with minimal calories today and fingers crossed I break the 185.X number tomorrow morning. Probably going to go for an even longer fast
 just to help send it.
+
+### April 10th 2023
+
+- __Todays Weight:__ 185 lbs
+
+Over the weekend I had two weigh-ins for 185.8 and 185.7, so I had a _little_ cheat day by going out for Easter, and then hanging out with my friend for a movie, as well as drank
+on Sunday as a celebration. Since I golfed on Sunday, I basically doubled my calories for the day so I only ended up going about 100 over. I did skip Gym on Sunday as Golf+Activies
+ended up netting me 15k steps. Although I technically didn't hit my milestone until today, I'm pretty happy. Back to protein-rich food for the week, and we'll see if I end up going
+out much this week.
