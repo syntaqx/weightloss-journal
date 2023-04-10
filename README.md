@@ -12,6 +12,8 @@
 
 > __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
 
+# Journal Entries
+
 ## November 2022
 
 Likely due to Thanksgiving, or general holiday shenanigans and laziness, I weighed myself at my highest ever weight: 220.
