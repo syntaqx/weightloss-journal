@@ -368,3 +368,6 @@ Over the weekend I had two weigh-ins for 185.8 and 185.7, so I had a _little_ ch
 on Sunday as a celebration. Since I golfed on Sunday, I basically doubled my calories for the day so I only ended up going about 100 over. I did skip Gym on Sunday as Golf+Activies
 ended up netting me 15k steps. Although I technically didn't hit my milestone until today, I'm pretty happy. Back to protein-rich food for the week, and we'll see if I end up going
 out much this week.
+
+No specific weight goals for this week, just hoping to stay with the caloric deficit and see if it gives me my 1-2 lbs loss for the week, as I think I pushed it pretty hard this week.
+Going to try for a 2 days on, 1 day later in the week system as my Wednesday is pretty busy.
