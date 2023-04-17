@@ -373,3 +373,24 @@ out much this week.
 
 No specific weight goals for this week, just hoping to stay with the caloric deficit and see if it gives me my 1-2 lbs loss for the week, as I think I pushed it pretty hard this week.
 Going to try for a 2 days on, 1 day later in the week system as my Wednesday is pretty busy.
+
+## April 17th 2023
+
+- __Todays Weight:__ 185.2 lbs
+
+Had a really rough work week, so I took the weekend off of tracking my calories for 3 days. Had some drinks, had some good food, and took the time for myself. This certainly pushed
+a little bit of my progress back, but nothing that's terribly concerning, and just means I need to be back on track this week to hopefully push towards 183. Additionally, learned a couple
+things that is really useful that I'll start implementing:
+
+- The most common dossage of whey protein is 25-50 grams/day (1-2 scoops, depending on what brand)
+- There's _some_ studies that say over consuming whey protein can be pretty bad
+- Ideally, you should be getting protein from a variety of sources anyways
+
+So, the short version here, is I will be likely taking at least 1, usually 2 scoops of protein a day maximum and then finding the rest of it from other sources.
+
+Also as a side note, a lot of sources are saying to avoid using milk as it's a good amount of sugar. Some better combinations are:
+
+- Water
+- Unsweetened Nut Milks
+
+However, I don't think I'm going to follow this. Milk is tasty, and I still fall into my caloric deficit, so for now I'm going to keep making my chocolate milk.
