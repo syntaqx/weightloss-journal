@@ -3,12 +3,12 @@
 ## Summary
 
 - __Starting Weight__: 220 lbs (November 2022)
-- __Current Weight__: 185 lbs (Updated 4/10/2023)
+- __Current Weight__: 183 lbs (Updated 4/21/2023)
 - __Goal Weight__: 175 lbs
 - __Initial Goal Projection__: May 4 2023
 - __Current Goal Projection__: May 15-25 2023
 
-![image](https://user-images.githubusercontent.com/6037730/230985551-90d88fad-b051-407c-9ff5-202a14a51a1f.png)
+![image](https://user-images.githubusercontent.com/6037730/233695803-0fd4835a-2725-4bef-89c5-f6d1fa147abb.png)
 
 > __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
 
@@ -394,3 +394,13 @@ Also as a side note, a lot of sources are saying to avoid using milk as it's a g
 - Unsweetened Nut Milks
 
 However, I don't think I'm going to follow this. Milk is tasty, and I still fall into my caloric deficit, so for now I'm going to keep making my chocolate milk.
+
+## April 21st, 2023
+
+- __Todays Weight:__ 183 lbs
+
+This week has been extremely productive with hitting my protein goals (now using the Isopure Chocolate & Milk, 2 scoops/day).
+I've additionally added apples as a good source of Fiber to my diet. Since I've been hitting my macro goals significantly
+easier this way, I've been able to have a few drinks when I'm out with my friends without making it weird.
+
+Still been hitting the gym 2-4 times a week, which has been awesome. Excited to see where 175 looks with my belly fat.
