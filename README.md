@@ -407,7 +407,8 @@ Still been hitting the gym 2-4 times a week, which has been awesome. Excited to 
 changes I'm seeing in my physique, and if I'm able to burn off that stubborn belly fat.
 
 I did end up buying some more Joggers/Sweatpants for the gym, as I don't do laundry enough for the few that I had. Also
-had to buy the larger container of Isopure protein as I'm just about through my bag.
+had to buy the larger container of Isopure protein as I'm just about through my bag, as well as another shaker to go
+with it.
 
 Had a fun chat today with a friend that was talking about cardio and its role in weightloss, and forgot that I found
 some information that I never posted on here, that figured was worth adding.
