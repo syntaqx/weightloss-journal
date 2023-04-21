@@ -403,7 +403,8 @@ This week has been extremely productive with hitting my protein goals (now using
 I've additionally added apples as a good source of Fiber to my diet. Since I've been hitting my macro goals significantly
 easier this way, I've been able to have a few drinks when I'm out with my friends without making breaking my calorie ceiling.
 
-Still been hitting the gym 2-4 times a week, which has been awesome. Excited to see where 175 looks with my belly fat.
+Still been hitting the gym 2-4 times a week, which has been awesome. Excited to see where 175 looks like with the minor
+changes I'm seeing in my physique, and if I'm able to burn off that stubborn belly fat.
 
 Had a fun chat today with a friend that was talking about cardio and its role in weightloss, and forgot that I found
 some information that I never posted on here, that figured was worth adding.
