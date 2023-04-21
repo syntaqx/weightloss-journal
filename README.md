@@ -420,9 +420,9 @@ Basically, when you think about losing weight, there's a few things to keep in m
 
 ![image](https://user-images.githubusercontent.com/6037730/233696995-b23b4594-e040-430d-9f65-84167a8b885d.png)
 
-Basically the big takeaway from all of this, is that while still crucial for caloric burn, a significant amount of
-calorie burn does come from RMR, NEAT and TEF. However, by adding to this, you get value from both weight training
-and cardio.
+Basically the big takeaway from all of this, is that while excercise is still crucial for total caloric burn, a
+significant amount of calorie burn does come from RMR, NEAT and TEF. However, you can always add more calories to
+both your diet or your deficet by adding weight training and cardio.
 
 While at the gym, generally speaking weight training is significantly higher calorie burn than cardio. They both
 have value though, as whatever you enjoy, is what you're going to stick with.
