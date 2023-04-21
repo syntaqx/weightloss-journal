@@ -401,7 +401,7 @@ However, I don't think I'm going to follow this. Milk is tasty, and I still fall
 
 This week has been extremely productive with hitting my protein goals (now using the Isopure Chocolate & Milk, 2 scoops/day).
 I've additionally added apples as a good source of Fiber to my diet. Since I've been hitting my macro goals significantly
-easier this way, I've been able to have a few drinks when I'm out with my friends without making it weird.
+easier this way, I've been able to have a few drinks when I'm out with my friends without making breaking my calorie ceiling.
 
 Still been hitting the gym 2-4 times a week, which has been awesome. Excited to see where 175 looks with my belly fat.
 
