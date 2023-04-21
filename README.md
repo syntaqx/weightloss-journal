@@ -404,3 +404,39 @@ I've additionally added apples as a good source of Fiber to my diet. Since I've 
 easier this way, I've been able to have a few drinks when I'm out with my friends without making it weird.
 
 Still been hitting the gym 2-4 times a week, which has been awesome. Excited to see where 175 looks with my belly fat.
+
+Had a fun chat today with a friend that was talking about cardio and its role in weightloss, and forgot that I found
+some information that I never posted on here, that figured was worth adding.
+
+Basically, when you think about losing weight, there's a few things to keep in mind:
+
+### Calories Out - Where does it come from:
+
+- __Resting Metabolic Rate (RMR)__: Calories we burn at reste, that are required for basic life functions
+- __Non-Excercise Activity Thermogenesis (NEAT)__: Calories we burn through non-voluntary movement - blinking, figeting, etc.
+- __Thermic Effect of Food (TEF)__: Calories we burn by digesting/absorbing the food we eat
+- __Physical Activity__: Calories we burn during excercise
+
+![image](https://user-images.githubusercontent.com/6037730/233696995-b23b4594-e040-430d-9f65-84167a8b885d.png)
+
+Basically the big takeaway from all of this, is that while still crucial for caloric burn, a significant amount of
+calorie burn does come from RMR, NEAT and TEF. However, by adding to this, you get value from both weight training
+and cardio.
+
+While at the gym, generally speaking weight training is significantly higher calorie burn than cardio. They both
+have value though, as whatever you enjoy, is what you're going to stick with.
+
+You can always change the percentage of calories burned during excercise by having more excercise. There are some
+diminishing effects against your NEAT where your body will attempt to equalize out, but more excercise always
+means _at least_ the same, if not more calories are being burned; All while building muscle. When you're in a
+caloric deficet, your body will pull energy from both muscles at fat. The biggest goal when losing weight is to
+only lose fat, not muscle, which allow you the benefit of looking good after you've lost the fat.
+
+Additionally, cardiovascular excercise, such as running or cycling, can improve heart health, lower blood pressure,
+and reduce the risk of chronic diseases such as heart disease. So, while cardio may not be the most efficient way
+to burn calories for weight loss, it is still an important component of a healthy lifestyle.
+
+A few facts I pull from this:
+- Go to the gym; Prioritize weight lifting over cardio
+- You still need cardio, it's good for your heart
+- Stay in a caloric deficet, as that's where you actually lose weight
