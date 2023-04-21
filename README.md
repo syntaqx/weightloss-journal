@@ -21,7 +21,7 @@ Likely due to Thanksgiving, or general holiday shenanigans and laziness, I weigh
 This caused a cascade of body dismorphia, self-reflection, and mostly just made me realize changes were needed. In high
 school, I played plenty of sports, and weighed the 165-175 range, with fairly low body fat/lean muscle. I've worked in
 tech since 2004, so I spend 6-12 hours a day in front of a computer, which over time has contributed to my body having
-more fat, less muslce, and probably lots of other sad things. Becoming active needs to happen.
+more fat, less muscle, and probably lots of other sad things. Becoming active needs to happen.
 
 ## November-December 2022
 
