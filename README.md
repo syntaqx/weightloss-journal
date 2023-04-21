@@ -310,7 +310,7 @@ This above transcript, as well as additional information that the biggest thing 
 to the gym, and (if I remember correctly) only ~17% additional gains would even be made by adding protein. So, me sticking to the 131g
 of protein by day would likely be sufficient, when applying a few goals:
 
-1. Try to focus on high quality proteins to keep digestability high, and allowing me to get essential amino acids without much effort - This means Whey for me.
+1. Try to focus on high quality proteins to keep digestability high, and allowing me to get essential amino acids without much effort - This means Whey Isolate for me (highest protein concentration, fewest calories).
 2. Soylent is a Soy protein, which while still good, means I should buy a Whey protein to supplement when I'm not using Soylent.
 3. I should eat a lot more eggs, because they're pretty easy to just boil and throw back.
 
