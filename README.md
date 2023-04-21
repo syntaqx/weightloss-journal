@@ -406,6 +406,9 @@ easier this way, I've been able to have a few drinks when I'm out with my friend
 Still been hitting the gym 2-4 times a week, which has been awesome. Excited to see where 175 looks like with the minor
 changes I'm seeing in my physique, and if I'm able to burn off that stubborn belly fat.
 
+I did end up buying some more Joggers/Sweatpants for the gym, as I don't do laundry enough for the few that I had. Also
+had to buy the larger container of Isopure protein as I'm just about through my bag.
+
 Had a fun chat today with a friend that was talking about cardio and its role in weightloss, and forgot that I found
 some information that I never posted on here, that figured was worth adding.
 
