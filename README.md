@@ -440,4 +440,4 @@ to burn calories for weight loss, it is still an important component of a health
 A few facts I pull from this:
 - Go to the gym; Prioritize weight lifting over cardio
 - You still need cardio, it's good for your heart
-- Stay in a caloric deficet, as that's where you actually lose weight
+- Stay in a caloric deficet, without it you're not going to lose weight (you can't gym your way out of a bad diet)
