@@ -8,8 +8,6 @@
 - __Initial Goal Projection__: May 4th 2023
 - __Current Goal Projection__: June 2nd 2023
 
-![image](https://user-images.githubusercontent.com/6037730/235733979-f13ce829-dfd2-4a98-aeb2-f21ce96d33a6.png)
-
 > __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
 
 # Journal Entries
