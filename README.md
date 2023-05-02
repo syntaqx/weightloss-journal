@@ -3,12 +3,12 @@
 ## Summary
 
 - __Starting Weight__: 220 lbs (November 2022)
-- __Current Weight__: 183 lbs (Updated 4/21/2023)
+- __Current Weight__: 183.4 lbs (Updated 5/2/2023)
 - __Goal Weight__: 175 lbs
 - __Initial Goal Projection__: May 4 2023
 - __Current Goal Projection__: May 15-25 2023
 
-![image](https://user-images.githubusercontent.com/6037730/233695803-0fd4835a-2725-4bef-89c5-f6d1fa147abb.png)
+![image](https://user-images.githubusercontent.com/6037730/235733979-f13ce829-dfd2-4a98-aeb2-f21ce96d33a6.png)
 
 > __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
 
@@ -445,3 +445,12 @@ A few facts I pull from this:
 - Go to the gym; Prioritize weight lifting over cardio
 - You still need cardio, it's good for your heart
 - Stay in a caloric deficet, without it you're not going to lose weight (you can't gym your way out of a bad diet)
+
+## May 2nd, 2023
+
+- __Todays Weight__: 183.4 lbs
+
+This last week was a full loss for eating good, I had a lot of events going on, so lots of drinking and poor
+eating. Going to push extra hard to get back on track this week, and see where we wind up next week.
+
+Gym things have been mostly on track, always hitting at least 2 days, striving for 3+
