@@ -3,7 +3,7 @@
 ## Summary
 
 - __Starting Weight__: 220 lbs (November 2022)
-- __Current Weight__: 183.4 lbs (Updated 5/2/2023)
+- __Current Weight__: 181.8 lbs (Updated 5/2/2023)
 - __Goal Weight__: 175 lbs
 - __Initial Goal Projection__: May 4th 2023
 - __Current Goal Projection__: June 2nd 2023
@@ -448,7 +448,7 @@ A few facts I pull from this:
 
 ## May 2nd, 2023
 
-- __Todays Weight__: 183.4 lbs
+- __Todays Weight__: 181.8 lbs
 
 This last week was a full loss for eating good, I had a lot of events going on, so lots of drinking and poor
 eating. Going to push extra hard to get back on track this week, and see where we wind up next week.
