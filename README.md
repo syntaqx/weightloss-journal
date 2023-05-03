@@ -8,6 +8,9 @@
 - __Initial Goal Projection__: May 4th 2023
 - __Current Goal Projection__: June 2nd 2023
 
+![Screenshot_20230502_175813_Photos](https://user-images.githubusercontent.com/6037730/235816275-40e1810f-d9c7-41d2-95e0-c08cb78156de.jpg)
+
+
 > __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
 
 # Journal Entries
@@ -452,3 +455,5 @@ This last week was a full loss for eating good, I had a lot of events going on, 
 eating. Going to push extra hard to get back on track this week, and see where we wind up next week.
 
 Gym things have been mostly on track, always hitting at least 2 days, striving for 3+
+
+I've decided the Isopure Chocolate is not nearly as good as the Dark Chocolate flavor, so once I'm done with the container I'll switch back.
