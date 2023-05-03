@@ -8,7 +8,7 @@
 - __Initial Goal Projection__: May 4th 2023
 - __Current Goal Projection__: June 2nd 2023
 
-![Screenshot_20230502_175717_Lose It!](https://user-images.githubusercontent.com/6037730/235816324-ae46f16d-c5b2-41b6-964c-
+![Screenshot_20230502_175717_Lose It!](https://user-images.githubusercontent.com/6037730/235816420-95291397-b119-4475-aa32-7dc52026ec58.jpg)
 
 
 > __Note__: I'm still on my journey, so I'll post more as I hit my goal(s). Follow along for more information!
