@@ -457,3 +457,9 @@ eating. Going to push extra hard to get back on track this week, and see where w
 Gym things have been mostly on track, always hitting at least 2 days, striving for 3+
 
 I've decided the Isopure Chocolate is not nearly as good as the Dark Chocolate flavor, so once I'm done with the container I'll switch back.
+
+## May 26th, 2023
+
+- Today's Weight: 174.8
+
+I did it! Well, kinda. I expect my weight to still fluctuate working 5lbs, and just hitting the weight doesnt mean I've actually lost the weight, so I'm going to celebrate this weekend, then aim to lose another 5 lbs. Plus my stomache still has fat I don't want, do the priority is image now, not just weight.
